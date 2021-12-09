@@ -1,2 +1,3 @@
 # uiuiuiuiui
-Web component &amp; CSS Styling Test
+
+Web component and CSS styling platform.

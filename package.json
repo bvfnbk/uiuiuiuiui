@@ -1,0 +1,24 @@
+{
+  "name": "uiuiuiuiui",
+  "version": "1.0.0",
+  "description": "Web component and CSS styling platform.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvfnbk/uiuiuiuiui.git"
+  },
+  "keywords": [
+    "html5",
+    "webcomponents",
+    "css"
+  ],
+  "author": "bvfnbk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bvfnbk/uiuiuiuiui/issues"
+  },
+  "homepage": "https://github.com/bvfnbk/uiuiuiuiui#readme"
+}
