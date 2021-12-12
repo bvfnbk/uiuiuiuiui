@@ -1,0 +1,35 @@
+div#app {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0;
+    padding: 0;
+
+    min-height: 100vh;
+}
+
+div#app-bar {
+    flex: 0 0 4vh;
+    background: #efefef;
+}
+
+div#app-footer {
+    flex: 0 0 4vh;
+    background: #efefef;
+}
+
+div#app-content {
+    display: flex;
+    flex: 1;
+    background: bisque;
+}
+
+div#side-nav {
+    flex: 0 0 20vw;
+    background-color: #efefef;
+    overflow-x: hidden;
+}
+
+div#main-content {
+    flex: 1;
+}
